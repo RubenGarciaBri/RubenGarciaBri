@@ -22,9 +22,8 @@ The main technologies I work with on a daily basis are React, Next.js, Typescrip
 - 🌱 I’m currently learning 
 
 - 📫 How to reach me <br>
-[<img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com/)
-[<img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com/)
-[<img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com/)
+[<img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruben-garcia-bri/)
+[<a href="mailto:example@yourdomain.com"><img alt="Gmail Badge" mailto:lunde@adobe.com src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]</a>
 
 
 
