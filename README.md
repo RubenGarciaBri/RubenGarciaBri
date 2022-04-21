@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Frontend Engineer based in London, UK. Currently working for BehaviourLab, a Fintech startup that helps asset managers, private equity firms, insurance companies and executive boards make better financial decisions through analytics and behavioural science.
+
+The main technologies I work with on a daily basis are React, Next.js, Typescript, TailwindCSS and D3.
+
+- 🌱 I’m currently learning 
+
+- 📫 How to reach me:
+- 
